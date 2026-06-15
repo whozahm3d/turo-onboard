@@ -1,0 +1,112 @@
+{
+  "fleet_summary": {
+    "vehicle_name": "2024 GMC Terrain",
+    "quality_tier": "mid-range",
+    "market_position": "This operator offers a modern, fuel-efficient SUV at a competitive price point, targeting practical travelers in Rogers, AR.",
+    "current_turo_strengths": [
+      "High customer satisfaction with 5-star reviews",
+      "Well-maintained vehicle with positive feedback on communication",
+      "Attractive pricing for a 2024 model electric SUV"
+    ]
+  },
+  "pricing_strategy": {
+    "current_turo_price_per_day": "$66.5/day",
+    "recommended_direct_price_per_day": "$75/day",
+    "reasoning": "By cutting out Turo's 20-25% marketplace fee, the operator can increase their net earnings while offering customers a competitive price.",
+    "estimated_extra_monthly_revenue": "$450 (assuming 5 trips/month at 3 days avg)",
+    "upsell_opportunities": [
+      "airport delivery",
+      "prepaid fuel",
+      "car seat add-on"
+    ]
+  },
+  "customer_persona": {
+    "persona_name": "Emily",
+    "age_range": "35–50",
+    "likely_use_case": "Family trips and weekend getaways in the Rogers area",
+    "booking_motivations": [
+      "Reliability and cleanliness of the vehicle",
+      "Affordable pricing for a modern SUV",
+      "Convenient local pickup and drop-off"
+    ],
+    "frustrations_with_turo": [
+      "Hidden fees and surcharges on the platform",
+      "Limited direct communication with the host"
+    ],
+    "why_direct_booking_wins": "Emily prefers direct booking for transparent pricing and personalized service without platform intermediaries."
+  },
+  "website_copy": {
+    "hero_headline": "Rent Ryan’s 2024 GMC Terrain Electric SUV",
+    "hero_subheadline": "Save 15% by booking directly and enjoy a seamless, eco-friendly driving experience in Rogers, AR.",
+    "value_propositions": [
+      {
+        "title": "Eco-Friendly",
+        "description": "Drive a 2024 electric SUV with 26 mpg efficiency."
+      },
+      {
+        "title": "5-Star Rated",
+        "description": "Trusted by customers for reliability and excellent communication."
+      },
+      {
+        "title": "Local Convenience",
+        "description": "Easy pickup and drop-off in Rogers, AR."
+      }
+    ],
+    "trust_signals": [
+      "5-star reviews from satisfied customers",
+      "Well-maintained 2024 model with zero issues reported",
+      "Transparent pricing with no hidden fees"
+    ],
+    "primary_cta": "Book Direct — Save 15%"
+  },
+  "onboarding_call_agenda": [
+    {
+      "step": 1,
+      "topic": "Introduction and Goals",
+      "key_message": "Direct booking can significantly increase your earnings while enhancing customer satisfaction.",
+      "suggested_opener": "Ryan, thanks for joining. Let’s explore how switching to direct booking can boost your earnings with the GMC Terrain."
+    },
+    {
+      "step": 2,
+      "topic": "Pricing Strategy",
+      "key_message": "By eliminating Turo’s fees, you can charge more competitively while increasing your net profit.",
+      "suggested_opener": "Let’s start with pricing—how does $75/day sound for the GMC Terrain, keeping more in your pocket?"
+    },
+    {
+      "step": 3,
+      "topic": "Customer Persona",
+      "key_message": "Understanding your customers’ needs allows you to tailor your offerings for higher satisfaction and repeat bookings.",
+      "suggested_opener": "Your customers, like Emily, value reliability and transparency—let’s focus on that."
+    },
+    {
+      "step": 4,
+      "topic": "Website and Marketing",
+      "key_message": "A dedicated booking site with clear value propositions will attract more direct customers.",
+      "suggested_opener": "Here’s how your direct booking site could look, highlighting the GMC Terrain’s eco-friendly features."
+    },
+    {
+      "step": 5,
+      "topic": "Next Steps",
+      "key_message": "We’ll handle the setup, and you’ll start seeing higher earnings within weeks.",
+      "suggested_opener": "Let’s get started—we’ll have your direct booking system up and running in no time."
+    }
+  ],
+  "recommended_turo_onboard_features": [
+    {
+      "feature": "Automated Messaging",
+      "why_relevant": "Streamline communication with customers, maintaining the high response rate praised in reviews."
+    },
+    {
+      "feature": "Dynamic Pricing",
+      "why_relevant": "Maximize earnings during peak seasons in Rogers, AR."
+    },
+    {
+      "feature": "Upsell Add-ons",
+      "why_relevant": "Offer airport delivery and car seat add-ons to increase revenue per booking."
+    }
+  ],
+  "red_flags": [
+    "No trip count listed, indicating potential lack of visibility or new listing (inferred)."
+  ],
+  "opening_pitch": "Ryan, by switching to direct booking, you can increase your earnings by $450/month with the GMC Terrain while offering customers a 15% discount—let’s make it happen."
+}

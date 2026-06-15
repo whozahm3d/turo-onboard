@@ -1,0 +1,70 @@
+{
+  "vehicle": {
+    "name": "GMC Terrain 2024 rental in Rogers, AR by Ryan | Turo",
+    "price_per_day": "$66.5/day",
+    "rating": "5",
+    "trip_count": "None"
+  },
+  "host": {
+    "name": "N/A",
+    "trips_hosted": "N/A",
+    "response_rate": "N/A",
+    "member_since": "N/A"
+  },
+  "details": {
+    "location": "Rogers, AR",
+    "description": "Explore the highways and byways of Rogers in Ryan’s GMC Terrain on Turo, where you can book the perfect car for your next adventure, courtesy of local hosts.",
+    "features": [
+      "Overview",
+      "Features",
+      "Reviews",
+      "Location",
+      "Log in",
+      "Sign up",
+      "Become a host",
+      "Why choose Turo",
+      "Gift cards",
+      "Contact support",
+      "Legal",
+      "Insurance & protection",
+      "Host tools",
+      "Carculator",
+      "Car rental",
+      "SUV rental",
+      "Rogers",
+      "GMC Terrain 2024",
+      "Facebook",
+      "Instagram",
+      "TikTok",
+      "Youtube",
+      "App Store",
+      "Google Play",
+      "English",
+      "Español",
+      "Français",
+      "©2026 Turo, Inc.",
+      "Terms",
+      "Privacy"
+    ],
+    "specs": {
+      "mpg": "26",
+      "seats": "5",
+      "transmission": "Automatic",
+      "fuel_type": "Electric"
+    }
+  },
+  "reviews": [
+    {
+      "text": "Eric • June 5, 2026Great car, well maintained. Easy pickup and return, and excellent communication. Highly recommended."
+    },
+    {
+      "text": "Connor • May 24, 2026Great communication, car as expected"
+    },
+    {
+      "text": "CHRISTOPHER • April 26, 2026Everything was great!"
+    },
+    {
+      "text": "Jalynn • April 22, 2026Everything was great. Thanks"
+    }
+  ]
+}
