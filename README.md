@@ -33,7 +33,7 @@ From a single Turo URL, the tool produces:
 
 **Customer Persona — Emily, 35–50**
 
-Emily books for family weekend getaways in Northwest Arkansas. She values transparent pricing and direct communication with the host. Her biggest frustration with Turo: hidden fees and no direct line to the owner.
+Emily books for family weekend getaways in Northwest Arkansas. She values transparent pricing and direct communication with the host. Her biggest frustration with Turo: hidden fees and no direct l[...]
 
 **Onboarding Call Opener**
 
@@ -168,9 +168,22 @@ Runs with a visible browser (`headless=False`) to bypass Cloudflare bot detectio
 
 ## How the AI pipeline works
 
-Scraped listing data is sent to Cohere's `command-a-03-2025` model with a structured system prompt framing it as a 1Now onboarding specialist task. The model returns strict JSON — parsed directly into the Streamlit UI.
+Scraped listing data is sent to Cohere's `command-a-03-2025` model with a structured system prompt framing it as a 1Now onboarding specialist task. The model returns strict JSON — parsed direct[...]
 
-The prompt engineers for specificity: prices reference the actual listing data, the persona is named and grounded in the reviews, and the onboarding agenda includes verbatim opening sentences rather than generic talking points.
+The prompt engineers for specificity: prices reference the actual listing data, the persona is named and grounded in the reviews, and the onboarding agenda includes verbatim opening sentences rat[...]
+
+---
+
+## Contributing
+
+We welcome contributions! If you'd like to help improve turo-onboard, please see our [CONTRIBUTING.md](CONTRIBUTING.md) guide for:
+
+- How to fork, branch, and submit pull requests
+- Code style and testing guidelines
+- What kinds of contributions we're looking for
+- Bug reporting and feature request processes
+
+All contributors are recognized in the GitHub contributors graph. Thank you for helping! 🙌
 
 ---
 
