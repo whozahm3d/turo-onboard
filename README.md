@@ -2,7 +2,7 @@
 
 Paste a Turo listing URL. Get a full operator onboarding package in under 60 seconds.
 
-Built for independent fleet operators and Turo hosts evaluating [turo-onboard](https://turo-onboard.ai) — the platform that replaces marketplace fees with direct bookings and AI automation.
+Built for independent fleet operators and Turo hosts evaluating [turo-onboard](https://1Now.ai) — the platform that replaces marketplace fees with direct bookings and AI automation.
 
 ---
 
